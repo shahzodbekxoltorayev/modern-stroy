@@ -1,0 +1,216 @@
+ @media screen and (max-width: 1200px) {
+.galery p{
+  padding: 0px 10px;
+}
+
+}
+
+@media screen and (max-width: 992px) {
+.galery p{
+  padding: 0px 10px;
+}
+
+.xarid .input6{
+  margin-top:20px;
+  height: 300px;
+}
+.xarid .input ul{
+  padding: 0px 20px;
+}
+.three .h3{
+  margin-top: -30px;
+  font-size: 35px;
+}
+}
+
+@media screen and (max-width: 768px) {
+  .timeline::after {
+  left: 31px;
+  }
+  .line-right {
+  left: 50%;
+}
+.contact-border{
+  font-size: 14px;
+}
+  .contact-line{
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 12px;
+  }
+  
+  .contact-line::before {
+  left: 0px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent green transparent transparent;
+  }
+  .accordion{
+    font-size: 14px;
+  }
+  /* Make sure all circles are at the same spot */
+  .line-left::after, .line-right::after{
+  left: 1px;
+  }
+  
+  /* Make all right containers behave like the left ones */
+  .line-right {
+  left: 0%;
+  }
+.xarid-h3 h3{
+  font-size: 20px;
+}
+.two h3{
+  font-size: 25px;
+}
+.two{
+  padding: 15px  0;
+}
+.three .h3{
+  margin-top: -40px;
+  font-size: 25px;
+}
+.three .hr{
+  margin-bottom: 30px;
+}
+.h4-input {
+  margin: 0px;
+}
+.galery .h3{
+  margin-top: -10px;
+  font-size: 14px;
+}
+.nav-a a{
+  position: absolute;
+  top:60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 10px 30px;
+  font-size: 20px;
+}
+.contact-word{
+  margin: 50px 10px;
+}
+.contact-line::after {
+ display: none;
+}
+.timeline::after {
+ display: none;
+}
+.four h3{
+  font-size: 20px;
+}
+.three .h3{
+  font-size: 30px
+}
+.five .h3{
+  font-size: 30px
+}
+.tab button {
+  width: 100%;
+}
+.footer-a{
+  display: none;
+}
+.margin-b{
+  margin-bottom: 50px;
+ }
+ 
+}
+@media screen and (max-width:576px) {
+#apps .slider__slide-heading {
+  color: red;
+  margin-bottom: 20px;
+  font-size: 20px;
+  letter-spacing: 10px;
+}
+.galery .h3{
+  font-size: 25px;
+  margin: 10px 0px;
+}
+.galery p{
+  padding: 0px 10px;
+}
+.xarid-h3 h3{
+  font-size: 18px;
+}
+.contact-borderr{
+  font-size: 14px;
+}
+
+
+
+  .timeline::after {
+  left: -10px;
+  }
+  .line-right {
+  left: 50%;
+}
+  .contact-line{
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 12px;
+  }
+  
+  .contact-line::before {
+  left: 0px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent green transparent transparent;
+  }
+
+  /* Make sure all circles are at the same spot */
+  .line-left::after, .line-right::after{
+  left: 15px;
+  }
+  
+  /* Make all right containers behave like the left ones */
+  .line-right {
+  left: 0%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+
+.xarid-h3 h3{
+  font-size: 16px;
+}
+.contentt {
+  padding: 20px 50px;
+  background-color: green;  
+  border-radius: 6px;
+}
+.slider__slide-heading{
+  display: flex;
+  font-size: 25px;
+  letter-spacing: 25px;
+}
+.h3-dilshod{
+  font-size: 16px;
+  text-align: center;
+}
+
+.about h2{
+  font-size: 20px;
+}
+.index-h3{
+  font-size: 14px;
+}
+}
+
+/*.nav-links a i{
+  display: block;
+  height: 2px;
+  width: 0px;
+  margin:5px auto 0;
+  transition: 0.5s;
+  background-color: transparent;
+}
+.nav-links a:active i{
+  width: 100%;
+  border: 1px dashed white;
+  background-color: transparent !important;
+}*/

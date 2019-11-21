@@ -1,0 +1,10 @@
+.footer-icon i{
+	margin-top: 20px;
+	width: 40px;
+	color:#67ee00;
+	font-size: 25px; 
+}
+.footer-icon i:hover{
+	text-shadow: 0px 0px 10px  #67ee00;
+	animation: jello 2s infinite;
+}

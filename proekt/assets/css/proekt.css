@@ -1,0 +1,55 @@
+.wrapper-home h3{
+	font-size: 30px;
+	color:#444444;
+	padding: 20px;
+}
+.wrapper-home p{
+	font-size: 20px;
+	line-height: 30px;
+	color: #616161;
+}
+.building__wrapper {
+	display: block; ;
+}
+@media screen and (max-width: 1200px){
+.wrapper-home h3{
+	padding: 20px;
+ 
+}
+}
+
+@media screen and (max-width: 992px){
+.wrapper-home h3{
+	font-size: 20px;
+ 
+}
+.wrapper-home p{
+	font-size: 17px;
+	line-height: 20px;
+	color: #616161;
+}
+}
+
+@media screen and (max-width: 900px){
+.building__wrapper ,.building-container {
+	/*display: none ;*/
+}
+ 
+}
+
+@media screen and (max-width: 768px){
+ .wrapper-home h3{
+	padding: 20px;
+ 
+}
+}
+
+@media screen and(max-width: 576px){
+
+}
+
+@media screen and(max-width: 480px){
+
+}
+
+ 
